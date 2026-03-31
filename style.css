@@ -1,0 +1,18 @@
+h1 
+{
+    color: rebeccapurple;
+}
+.pasos-rojo {
+    color: red;
+    font-size: 40px;
+}
+.ingredientes-azul {
+    color: blue;
+    font-size: 40px;
+}
+.tortas-canasta {
+    width: 350px;
+}
+.tortas-plato {
+    width: 350px;
+}
